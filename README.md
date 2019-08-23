@@ -6,5 +6,5 @@ Open-ended document for good reading material/tutorials/guides/blogs/etc.
 ## [SYLLABUS](SYLLABUS.md)
 Working document for what we'll work on each week.
 
-## [MEETING NOTES](MEETINGS_NOTES.md)
+## [MEETING NOTES](MEETING_NOTES.md)
 A log of what we did at each meeting.
