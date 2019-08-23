@@ -1,34 +1,58 @@
-This is a mutable syllabus!
+# Syllabus
+This is a mutable syllabus! 
 
-# 8/20/19
-* Intro to shaders
-
-# 8/27/19
-* Raymarching
-
-# 9/3/19
-* Math for shaders
-
-# 9/10/19
-* Noise and Mesh deformations
-
-# 9/17/19
-* Photorealistic lighting
-
-# 9/24/19
-* Fluid dynamics
-
-# 10/1/19
+Topics we've expressed interest in that would be cool to slot in:
 * Particle systems
+* Fluid dynamics
+* Photorealistic lighting
+* Realistic skin shading
 
-# 10/8/19
+# Schedule
+## 8/20/19
+### Intro to shaders
+---
+## 8/27/19
+### Raymarching
+- Lecture by Char and Chirag
+---
+## 9/3/19
+### Intro math for shaders
+- Vectors and Matrices
+- Transforms
+- ???
+---
+## 9/10/19
+### Noise
+- Perlin
+- Simplex
+- ???
+- Mesh deformation
+---
+## 9/17/19
+### ???
+---
+## 9/24/19
+### ???
+---
+## 10/1/19
+### ???
+---
+## 10/8/19
+### ???
+---
+## 10/15/19
+### ???
+---
+## 10/22/19
+### ???
+---
+## 10/29/19
+### ???
+---
+## 11/5/19
+### ???
+---
+## 11/12/19
+### ???
 
-# 10/15/19
 
-# 10/22/19
-
-# 10/29/19
-
-# 11/5/19
-
-# 11/12/19
