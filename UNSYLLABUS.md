@@ -1,11 +1,11 @@
-# Syllabus
-This is a mutable syllabus! 
+# Weekly topics
 
 Topics we've expressed interest in that would be cool to slot in:
 * Particle systems
 * Fluid dynamics
 * Photorealistic lighting
 * Realistic skin shading
+* Noise + mesh deformation/Noise + fog
 
 # Schedule
 ## 8/20/19
@@ -19,14 +19,14 @@ Topics we've expressed interest in that would be cool to slot in:
 ### Intro math for shaders
 - Vectors and Matrices
 - Transforms
-- ???
+- Rotations
 ---
+### 
 ## 9/10/19
-### Noise
-- Perlin
-- Simplex
+### Lighting stuff
+- https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch18.html
+- Excerpts from Real Time Rendering
 - ???
-- Mesh deformation
 ---
 ## 9/17/19
 ### ???
