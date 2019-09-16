@@ -12,3 +12,7 @@
 ## 9/3/19
 * We played around with rotations and got a square rotating with matrix multiplication
 * Planned to read about spatial sbrdfs 
+
+## 9/10/19
+* We added basic lighting to the raymarching repo
+* Planned to add reflections in the next session
