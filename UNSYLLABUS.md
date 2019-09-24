@@ -27,15 +27,13 @@ Topics we've expressed interest in that would be cool to slot in:
 - https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch18.html
 - Excerpts from Real Time Rendering (Chapter 5)
 ---
-## 9/17/19
-### Reflectivity
--- Excerpts from Real Time Rendering (Reflections/Refractions)
----
 ## 9/24/19
-### ???
+### Intro to GLTF/Raymarching
+- Demo of exporting models to GLTF from Blender and displaying in the browser
+- Lecture by Char on raymarching part i
 ---
 ## 10/1/19
-### ???
+### Intro to Raymarching and ???  
 ---
 ## 10/8/19
 ### ???

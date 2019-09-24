@@ -10,3 +10,4 @@ A general list of reading material...
 * A gamified way to learn shader basics: <https://hughsk.io/fragment-foundry/chapters/01-hello-world.html>
 * [IQ's distance functions](http://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 * ISF Editor
+* [Three.js examples](http://threejs.org/examples)

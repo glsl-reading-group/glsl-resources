@@ -16,3 +16,7 @@
 ## 9/10/19
 * We added basic lighting to the raymarching repo
 * Planned to add reflections in the next session
+
+## 9/24/19
+* We referenced the three.js examples and talked about using gltf for models
+* Char did part i of her raymarching lecture 
